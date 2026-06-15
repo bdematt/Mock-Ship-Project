@@ -4,6 +4,7 @@ project:
     type: Unlocked
     permsets:
       - bd1887__Mock_Perm_Set
+      - Mock_Extension_Perm_Set
     dependencies:
       - github: https://github.com/bdematt/mock-ship-dependency
         name: Mock Ship Dependency

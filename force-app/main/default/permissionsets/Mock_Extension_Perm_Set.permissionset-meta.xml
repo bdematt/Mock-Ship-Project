@@ -5,11 +5,6 @@
         <field>bd1887__Mock_Object__c.Mock_Extension_Field__c</field>
         <readable>true</readable>
     </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>bd1887__Mock_Object__c.bd1887__Mock_Checkbox_Field__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
     <hasActivationRequired>false</hasActivationRequired>
     <label>Mock Perm Set</label>
     <objectPermissions>
