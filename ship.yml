@@ -1,8 +1,12 @@
 project:
   package:
     name: Mock Ship Project
-    namespace: bd1887
     type: Unlocked
+    permsets:
+      - bd1887__Mock_Perm_Set
+    dependencies:
+      - github: https://github.com/bdematt/mock-ship-dependency
+        name: Mock Ship Dependency
   git:
     defaultBranch: main
     repoUrl: https://github.com/bdematt/Mock-Ship-Project

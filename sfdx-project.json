@@ -9,7 +9,7 @@
         }
     ],
     "name": "Mock-Ship-Project",
-    "namespace": "bd1887",
+    "namespace": "",
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "66.0",
     "defaultLwcLanguage": "typescript"
