@@ -1,0 +1,16 @@
+{
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true,
+            "package": "Mock Ship Project",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.0.0.NEXT"
+        }
+    ],
+    "name": "Mock-Ship-Project",
+    "namespace": "bd1887",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "66.0",
+    "defaultLwcLanguage": "typescript"
+}

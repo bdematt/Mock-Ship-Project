@@ -1,0 +1,15 @@
+{
+    "orgName": "Mock Ship Project:regression",
+    "edition": "Enterprise",
+    "settings": {
+        "lightningExperienceSettings": {
+            "enableS1DesktopEnabled": true
+        },
+        "securitySettings": {
+            "enableAdminLoginAsAnyUser": true,
+            "sessionSettings": {
+                "forceRelogin": false
+            }
+        }
+    }
+}

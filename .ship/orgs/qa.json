@@ -1,0 +1,16 @@
+{
+    "orgName": "Mock Ship Project:qa",
+    "edition": "Enterprise",
+    "hasSampleData": true,
+    "settings": {
+        "lightningExperienceSettings": {
+            "enableS1DesktopEnabled": true
+        },
+        "securitySettings": {
+            "enableAdminLoginAsAnyUser": true,
+            "sessionSettings": {
+                "forceRelogin": false
+            }
+        }
+    }
+}

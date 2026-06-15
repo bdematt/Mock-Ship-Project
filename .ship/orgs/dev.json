@@ -1,0 +1,20 @@
+{
+    "orgName": "Mock Ship Project:dev",
+    "edition": "Developer",
+    "hasSampleData": true,
+    "settings": {
+        "lightningExperienceSettings": {
+            "enableS1DesktopEnabled": true
+        },
+        "securitySettings": {
+            "enableAdminLoginAsAnyUser": true,
+            "sessionSettings": {
+                "forceRelogin": false
+            }
+        },
+        "userManagementSettings": {
+            "permsetsInFieldCreation": true,
+            "enableEnhancedPermsetMgmt": true
+        }
+    }
+}

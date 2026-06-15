@@ -1,0 +1,8 @@
+project:
+  package:
+    name: Mock Ship Project
+    namespace: bd1887
+    type: Unlocked
+  git:
+    defaultBranch: main
+    repoUrl: https://github.com/bdematt/Mock-Ship-Project
