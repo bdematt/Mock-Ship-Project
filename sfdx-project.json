@@ -5,7 +5,12 @@
       "default": true,
       "package": "Mock Ship Project",
       "versionName": "ver 0.1",
-      "versionNumber": "0.0.0.NEXT"
+      "versionNumber": "0.0.0.NEXT",
+      "dependencies": [
+        {
+          "package": "Mock Ship Dependency"
+        }
+      ]
     }
   ],
   "name": "Mock-Ship-Project",
@@ -14,6 +19,7 @@
   "sourceApiVersion": "66.0",
   "defaultLwcLanguage": "typescript",
   "packageAliases": {
-    "Mock Ship Project": "0HoWU0000002WGj0AM"
+    "Mock Ship Project": "0HoWU0000002WGj0AM",
+    "Mock Ship Dependency": "04tWU000000SctZYAS"
   }
 }
