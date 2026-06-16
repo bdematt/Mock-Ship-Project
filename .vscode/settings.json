@@ -7,5 +7,6 @@
     "**/dist": true
   },
   "salesforcedx-vscode-lwc.preview.typeScriptSupport": true,
+  "salesforcedx-vscode-apex-testing.retrieve-test-code-coverage": true,
   "xml.preferences.showSchemaDocumentationType": "none"
 }
