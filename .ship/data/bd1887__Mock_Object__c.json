@@ -1,0 +1,19 @@
+{
+  "records": [
+    {
+      "attributes": { "type": "bd1887__Mock_Object__c", "referenceId": "MockObjectRef1" },
+      "Mock_Extension_Field__c": "Seeded value one",
+      "bd1887__Mock_Number_Field__c": 1
+    },
+    {
+      "attributes": { "type": "bd1887__Mock_Object__c", "referenceId": "MockObjectRef2" },
+      "Mock_Extension_Field__c": "Seeded value two",
+      "bd1887__Mock_Number_Field__c": 2
+    },
+    {
+      "attributes": { "type": "bd1887__Mock_Object__c", "referenceId": "MockObjectRef3" },
+      "Mock_Extension_Field__c": "Seeded value three",
+      "bd1887__Mock_Number_Field__c": 3
+    }
+  ]
+}
